@@ -1,8 +1,4 @@
-# Updated - Employee Payslip Generator with Sending Mail v1.0 has stored cross-site scripting
-
 BUG_Author: Jean_Astruc
-
-Website source address: https://www.sourcecodester.com/php/16264/updated-employee-payslip-generator-sending-mail-using-php-and-gmail-smtp.html
 
 Vulnerability url: /php-pess/classes/Master.php?f=save_position
 
